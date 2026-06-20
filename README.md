@@ -18,13 +18,12 @@ This submission demonstrates clean app architecture, Riverpod state management, 
 
 ## Screenshots
 
-![Story Buddy Home](screenshots/story_buddy_home.jpg)
-
-![Quiz Screen](screenshots/quiz_screen.jpg)
-
-![Wrong Answer](screenshots/wrong_answer.jpg)
-
-![Success](screenshots/success.jpg)
+<p align="center">
+  <a href="screenshots/story_buddy_home.jpg"><img src="screenshots/story_buddy_home.jpg" width="180" alt="Story Buddy Home" /></a>
+  <a href="screenshots/quiz_screen.jpg"><img src="screenshots/quiz_screen.jpg" width="180" alt="Quiz Screen" /></a>
+  <a href="screenshots/wrong_answer.jpg"><img src="screenshots/wrong_answer.jpg" width="180" alt="Wrong Answer" /></a>
+  <a href="screenshots/success.jpg"><img src="screenshots/success.jpg" width="180" alt="Success" /></a>
+</p>
 
 ## App Flow
 
